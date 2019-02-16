@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name components)(type Legacy)(uri ${KIPRJMOD}/components.lib)(options "")(descr ""))
+  (lib (name generic_kbd-cache)(type Legacy)(uri ${KIPRJMOD}/generic_kbd-cache.lib)(options "")(descr ""))
+)
