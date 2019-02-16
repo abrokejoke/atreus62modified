@@ -1,3 +1,4 @@
 Atreus62 with MX, Kailh Choc, and Alps support.
 
-Still a work in progress, original design by Profet23, found at https://github.com/profet23/atreus62
+ Original design by Profet23, found at https://github.com/profet23/atreus62
+ mx/choc/alps footprint from Keeb.io, https://github.com/keebio/Keebio-Parts.pretty
